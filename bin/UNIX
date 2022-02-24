@@ -1,2 +1,17 @@
-To make a directory
-mkdir <file_name>
+## To make a directory
+mkdir <dir_name>
+Eg: mkdir friends
+
+## To make multiple directories at a time
+mkdir -p <dir1> <dir2> <dir3 .......
+Eg: mkdir -p mandalam district states
+
+## To change directory
+cd <dir_name>
+Eg: cd friends
+
+## To go to home directory from any where
+cd
+cd ~
+
+##
